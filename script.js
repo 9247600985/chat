@@ -277,6 +277,7 @@ let init = () => {
 
 let preinit = () => {
 	DOM.btnRegister.addEventListener("click", () => {
+		$('#preLogin').hide();
 		$('#postLogin').show();
 		init();
 	});
