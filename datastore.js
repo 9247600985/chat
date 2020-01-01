@@ -41,6 +41,13 @@ function findContactList(){
 			number: "+91 72781 38213",
 			pic: "https://firebasestorage.googleapis.com/v0/b/friendship-d566b.appspot.com/o/Profile%20Images%2FcXK0vjyaSZNy92al1gNkp6r1Tq63.jpg?alt=media&token=3b286b1e-8b38-4e39-bb3d-bd942d58a17c",
 			lastSeen: "Apr 27 2018 17:28:10"
+		},
+		{
+			id: 5,
+			name: "harish",
+			number: "+91 9247600985",
+			pic: "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjwysaKw-LmAhXNc30KHY3RD2YQjRx6BAgBEAQ&url=https%3A%2F%2Fbeautypageants.indiatimes.com%2Fothers%2Fmr-world-2019-winning-moments%2Feventshow%2F70812166.cms&psig=AOvVaw3YW-Amh7MGcuu6kwSuVq0M&ust=1577972305845075",
+			lastSeen: "Apr 27 2018 17:28:10"
 		}
 	];
 	return contactList;
